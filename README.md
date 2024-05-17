@@ -1,1 +1,3 @@
-This is my first git project, its my Portofolio webpage.
+# My Portfolio
+- This is my first git project.
+- It is a Uni Club induction task.
